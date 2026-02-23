@@ -1,0 +1,2 @@
+echo "this bash project"
+
